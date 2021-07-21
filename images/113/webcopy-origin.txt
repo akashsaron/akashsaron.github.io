@@ -1,0 +1,268 @@
+Uri: https://robbiecrenshaw.com/
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\index.htm
+Content Type: text/html
+
+Uri: https://robbiecrenshaw.com/fonts/MonumentExtended-Ultrabold.otf
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\fonts\MonumentExtended-Ultrabold.otf
+Content Type: binary/octet-stream
+
+Uri: https://robbiecrenshaw.com/fonts/MonumentExtended-Light.otf
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\fonts\MonumentExtended-Light.otf
+Content Type: binary/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\css2.css
+Content Type: text/css
+
+Uri: https://robbiecrenshaw.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://robbiecrenshaw.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://robbiecrenshaw.com/assets/main.css
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\assets\main.css
+Content Type: text/css
+
+Uri: https://twitter.com/robbiecren
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\robbiecren.html
+Content Type: text/html
+
+Uri: https://www.awwwards.com/
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-142626544-1
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://robbiecrenshaw.com/images/logo-small.svg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\logo-small.svg
+Content Type: image/svg+xml
+
+Uri: https://robbiecrenshaw.com/images/the-tour-guy-full.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\the-tour-guy-full.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/9ine-gaming.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\9ine-gaming.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/paper-we-transfer.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\paper-we-transfer.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/the-blonde-abroad.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\the-blonde-abroad.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/bujou-pizza-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\bujou-pizza-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/leave-no-trace-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\leave-no-trace-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/presentation-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\presentation-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/explore-venice-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\explore-venice-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/scuba-diving-ad-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\scuba-diving-ad-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/food-drive-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\food-drive-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/social-sunday-sm.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\social-sunday-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/jordan-photography-logo.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\jordan-photography-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/bujou-pizza-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\bujou-pizza-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/leave-no-trace-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\leave-no-trace-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/presentation-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\presentation-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/explore-venice-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\explore-venice-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/scuba-diving-ad-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\scuba-diving-ad-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/food-drive-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\food-drive-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/social-sunday-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\social-sunday-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/assets/main.js
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\assets\main.js
+Content Type: application/javascript
+
+Uri: https://robbiecrenshaw.com/images/the-tour-guy-full.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\the-tour-guy-full.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/9ine-gaming.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\9ine-gaming.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/paper-we-transfer.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\paper-we-transfer.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/the-blonde-abroad.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\the-blonde-abroad.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/bujou-pizza-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\bujou-pizza-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/leave-no-trace-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\leave-no-trace-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/presentation-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\presentation-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/explore-venice-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\explore-venice-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/scuba-diving-ad-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\scuba-diving-ad-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/food-drive-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\food-drive-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/social-sunday-sm.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\social-sunday-sm.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/jordan-photography-logo.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\jordan-photography-logo.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/bujou-pizza-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\bujou-pizza-lg.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/leave-no-trace-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\leave-no-trace-lg.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/presentation-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\presentation-lg.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/explore-venice-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\explore-venice-lg.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/scuba-diving-ad-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\scuba-diving-ad-lg.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/food-drive-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\food-drive-lg.webp
+Content Type: image/webp
+
+Uri: https://robbiecrenshaw.com/images/social-sunday-lg.webp
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\social-sunday-lg.webp
+Content Type: image/webp
+
+Uri: https://marketingplatform.google.com/about/analytics/
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\about\analytics\index.htm
+Content Type: text/html
+
+Uri: https://robbiecrenshaw.com/fonts/MonumentExtended-Ultralight.otf
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\fonts\MonumentExtended-Ultralight.otf
+Content Type: binary/octet-stream
+
+Uri: https://robbiecrenshaw.com/fonts/MonumentExtended-Regular.otf
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\fonts\MonumentExtended-Regular.otf
+Content Type: binary/octet-stream
+
+Uri: https://robbiecrenshaw.com/fonts/MonumentExtended-Bold.otf
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\fonts\MonumentExtended-Bold.otf
+Content Type: binary/octet-stream
+
+Uri: https://robbiecrenshaw.com/images/square-arrows.svg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\square-arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://robbiecrenshaw.com/images/square-arrows-small.png
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\square-arrows-small.png
+Content Type: image/png
+
+Uri: https://robbiecrenshaw.com/images/main-background2.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\main-background2.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/about/
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\about\index.htm
+Content Type: text/html
+
+Uri: https://robbiecrenshaw.com/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://robbiecrenshaw.com/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://robbiecrenshaw.com/images/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://robbiecrenshaw.com/assets/about.js
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\assets\about.js
+Content Type: application/javascript
+
+Uri: https://robbiecrenshaw.com/works/
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\works\index.htm
+Content Type: text/html
+
+Uri: https://robbiecrenshaw.com/images/tour-guy-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\tour-guy-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/9ine-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\9ine-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/wetransfer-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\wetransfer-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://robbiecrenshaw.com/images/blonde-abroad-lg.jpg
+File Name: C:\Downloaded Web Sites\robbiecrenshaw.com\images\blonde-abroad-lg.jpg
+Content Type: image/jpeg
+
